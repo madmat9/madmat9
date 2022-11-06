@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw">
+  <img src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=790b761132c0dda8c879d71d2c4ded72d53b8df68cf9ec47&rid=giphy.gif&ct=g">
 </div>
 
 # Hi there, i'm Mateo Gonzalez
